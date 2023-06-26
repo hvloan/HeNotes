@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HeNotes</string>
+    <string name="click_to_add_a_note">Click to add a note!</string>
+    <string name="title">Title</string>
+    <string name="this_is_body_of_note">This is body of note.</string>
+    <string name="tmp_time">2023/06/24 - 09:32:00 GMT+7</string>
+    <string name="notes">Notes</string>
+    <string name="save">SAVE</string>
+    <string name="html_preview">HTML Preview</string>
+    <string name="content">Content</string>
+    <string name="change_color_for_background_note">Change color for background note.</string>
+    <string name="pin_unpin">Pin/Unpin</string>
+    <string name="delete">Delete</string>
+    <string name="lock">Lock/UnLock</string>
+</resources>
