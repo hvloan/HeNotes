@@ -16,4 +16,4 @@ This is Android project using RoomDB
 - Android SDK
 
 #### Demo:
-![Screen](demo/DemoApps.mp4)
+![Demo](demo/DemoApps.mp4)
